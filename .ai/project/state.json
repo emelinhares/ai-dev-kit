@@ -1,7 +1,14 @@
 {
-  "project": "discord-factory",
-  "status": "bootstrapping",
-  "phase": "situate",
-  "role": "mapper",
-  "blocked_by": "none"
+  "schema_version": 1,
+  "project": "AI Development Kit",
+  "mode": "ADOPT_PROJECT",
+  "status": "ready_for_handoff",
+  "phase": "validation_complete",
+  "active_role": "documentation-curator",
+  "last_updated": "2026-07-28",
+  "current_outcome": "The starter files now form a comprehensive, validated, technology-agnostic workflow for a non-technical product owner.",
+  "next_action": "Coordinator reviews the handoff and decides where to adopt or extend the kit.",
+  "blocked_by": [],
+  "approvals_pending": [],
+  "health": "see .ai/project/health-report.md"
 }
